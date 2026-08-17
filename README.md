@@ -8,8 +8,7 @@ the reason for its position and a confidence rating.
 
 **[Open in Google Colab](https://colab.research.google.com/drive/1C0FHm0dgtItg7EXvkHnspiQhqEvZw1jM?usp=sharing)** → **Runtime → Run all** (`Ctrl+F9`).
 
-Takes about 30 seconds. No setup, no uploads, no keys — the data files load
-directly from this repo.
+Takes about 30 seconds. Tries to load files from github, if it cannot wil lrequest you to upload the two files.
 
 The ranked list prints at the bottom of the notebook, and
 `prioritized_accounts.csv` and `review_queue.csv` download automatically when the
