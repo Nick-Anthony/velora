@@ -24,7 +24,7 @@ the result without running anything.
 
 | file | what it is |
 |---|---|
-| `account_prioritizer.ipynb` | the MVP — annotated, runs top to bottom |
+| `Velora_Takehome.ipynb` | the MVP — annotated, runs top to bottom |
 | `REQUIREMENTS.md` | one-page requirements document: approach, assumptions, validation, non-goals |
 | `accounts.csv` | supplied account export (300 rows) |
 | `engagement_signals.json` | supplied engagement export (360 rows) |
