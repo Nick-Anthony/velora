@@ -1,5 +1,7 @@
 # Account Prioritization Agent
 
+[Video Link](https://drive.google.com/file/d/110EnBOkZnCaP91zTwLrsUSvXSzbNlIrB/view?usp=sharing)
+
 Ranks CRM accounts for weekly SDR outreach. Takes an account export and an
 engagement export, and produces a prioritized call list where every row carries
 the reason for its position and a confidence rating.
