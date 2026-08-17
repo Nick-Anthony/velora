@@ -1,0 +1,28 @@
+rank,account_name,confidence,flags,source_names,source_arr
+3,American Friends Service Committee,High,Merged from duplicate CRM records,AFSC | American Friends Service Committee,"77,100 | 92,450"
+6,"Save the Children Federation, Inc.",High,Merged from duplicate CRM records,"Save the Children | Save the Children Federation, Inc.","84,600 | 71,100"
+11,American Society for the Prevention of Cruelty to Animals,High,Merged from duplicate CRM records,ASPCA | American Society for the Prevention of Cruelty to Animals,"38,700 | 43,900"
+16,Volunteers of America,High,Last contact date missing — neglect set to neutral; Last contact date was in the future — treated as missing,Volunteers of America,"80,450"
+17,OneGoal,High,Last contact date missing — neglect set to neutral; Last contact date was in the future — treated as missing,OneGoal,"32,750"
+21,International Rescue Committee,High,Merged from duplicate CRM records,IRC | International Rescue Committee,"53,400 | 70,450"
+56,Zakat Foundation of America,Medium,ARR missing — imputed median; ARR value was not a valid number,Zakat Foundation of America,
+62,World Wildlife Fund,High,Merged from duplicate CRM records,WWF | World Wildlife Fund,"57,550 | 65,000"
+64,Natural Resources Defense Council,High,Merged from duplicate CRM records,NRDC | Natural Resources Defense Council,"34,250 | 45,550"
+74,Catholic Relief Services,High,Merged from duplicate CRM records,CRS | Catholic Relief Services,"28,750 | 38,950"
+92,Sightsavers,Low,ARR missing — imputed median; No engagement signals found,Sightsavers,
+95,Children's Miracle Network Hospitals,Low,ARR missing — imputed median; No engagement signals found,Children's Miracle Network Hospitals,
+98,Plan International,Medium,ARR missing — imputed median; ARR value was not a valid number,Plan International,
+118,First Book,Low,ARR missing — imputed median; No engagement signals found,First Book,
+133,Citizen Schools,High,Last contact date missing — neglect set to neutral; Last contact date was in the future — treated as missing,Citizen Schools,"28,150"
+140,Environmental Defense Fund,Medium,No engagement signals found; Merged from duplicate CRM records,EDF | Environmental Defense Fund,"120,000 | 95,150"
+144,Scholarship America,Low,ARR missing — imputed median; No engagement signals found,Scholarship America,
+148,International Fund for Animal Welfare,High,Merged from duplicate CRM records,IFAW | International Fund for Animal Welfare,"45,900 | 55,600"
+151,KIPP Foundation,Low,ARR missing — imputed median; No engagement signals found,KIPP Foundation,
+167,Médecins Sans Frontières USA,Medium,No engagement signals found; Merged from duplicate CRM records,Doctors Without Borders | Médecins Sans Frontières USA,"90,600 | 78,050"
+200,World Resources Institute,High,Merged from duplicate CRM records,WRI | World Resources Institute,"4,650 | 6,000"
+211,Habitat for Humanity International,High,Merged from duplicate CRM records,Habitat for Humanity | Habitat for Humanity International,"20,950 | 25,150"
+247,People for the Ethical Treatment of Animals,High,Merged from duplicate CRM records,PETA | People for the Ethical Treatment of Animals,"8,000 | 10,550"
+250,Kiva,Medium,Last contact date missing — neglect set to neutral; Last contact date was in the future — treated as missing; No engagement signals found,Kiva,0
+258,National Alliance on Mental Illness,High,Merged from duplicate CRM records,NAMI | National Alliance on Mental Illness,"9,750 | 13,050"
+266,Trust for Public Land,Low,ARR missing — imputed median; No engagement signals found,Trust for Public Land,
+271,John F. Kennedy Center for the Performing Arts,Low,ARR missing — imputed median; No engagement signals found,John F. Kennedy Center for the Performing Arts,
